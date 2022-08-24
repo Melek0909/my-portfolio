@@ -1,0 +1,27 @@
+p {
+    display: inline;
+    color: black;
+}
+nav {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: transparent;
+    padding: 14px;
+}
+body {
+    background-position-y: center;
+    background-color: grey;
+}
+main {
+    text-align: center;
+    font-size: 0.5cm;
+    background-image: url(bk.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.skills {
+    background-size: cover;
+    background-position-x: center;
+}
